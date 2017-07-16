@@ -1,4 +1,4 @@
-from axelrod import Player, Actions, Game, DeterministicCache
+from axelrod import Player, Action, Game, DeterministicCache
 from flask_assistant import Assistant, ask, tell
 import axelrod.interaction_utils as iu
 from flask import Flask
@@ -9,7 +9,7 @@ app = Flask(__name__)
 assist = Assistant(app, '/')
 
 logging.getLogger('flask_assistant').setLevel(logging.DEBUG)
-C, D = Actions.C, Actions.D
+C, D = Action.C, Action.D
 PLAYERS = []
 ROUNDS = 0
 
