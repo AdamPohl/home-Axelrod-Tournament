@@ -1,0 +1,62 @@
+# Template for defining UserSays examples
+
+# give-color-intent:
+
+#  UserSays:
+#    - My color is blue
+#    - red is my favorite color
+
+#  Annotations:
+#    - blue: sys.color     # maps param value -> entity
+#    - red: sys.color
+
+
+
+LaunchAction:
+  UserSays:
+  - Open the axelrod tournament
+  - Launch the axelrod tournament
+  - initiate the axelrod tournament
+
+
+PlayAction:
+  UserSays:
+  - initiate a ten round match against adaptive
+  - please start a ten round match against adaptive
+  - start a ten round match against adaptive
+  - can I have a ten match against adaptive
+  Annotations:
+  - ten: sys.number
+  - adaptive: Strategy
+
+ChoiceAction:
+  UserSays:
+  - I would like to defect please
+  - I would like to defect
+  - I am going to defect
+  - I will defect
+  - defect
+  Annotations:
+  - defect: Choice
+
+HelpAction:
+  UserSays:
+  - Help
+  - What can you do?
+  - Please provide the help guide
+
+StopAction:
+  UserSays:
+  - That's enough for today
+  - Stop
+  - Stop the match
+  - Stop the game
+  - End the match
+  - End the game
+  - I am done
+
+CancelAction:
+  UserSays:
+  - Cancel the match
+  - Cancel the game
+  - Cancel

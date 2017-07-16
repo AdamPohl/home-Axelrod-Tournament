@@ -1,0 +1,189 @@
+# Template file for entities
+
+#Format as below
+
+# entity_name:
+#  - entry1: list of synonyms
+#  - entry2: list of synonyms
+
+#For example:
+
+# drink:
+#  - water: ['aqua', 'h20']
+#  - coffee: ['joe', 'caffeine', 'espresso', 'late']
+#  - soda: ['pop', 'coke']
+
+
+Strategy:
+- adaptive
+- adaptive tit for tat
+- aggravater
+- allcoralld
+- alternator
+- alternator hunter
+- anticycler
+- anti tit for tat
+- adapative pavlov 2006
+- adapative pavlov 2011
+- appeaser
+- arrogant qlearner
+- average copier
+- better and better
+- backstabber
+- bully
+- calculator
+- cautious qlearner
+- champion
+- contrite tit for tat
+- cooperator
+- cooperator hunter
+- cycle hunter
+- cycler cccccd
+- cycler cccd
+- cycler ccd
+- cycler dc
+- cycler ddc
+- cycler cccdcd
+- davis
+- defector
+- defector hunter
+- desperate
+- doublecrosser
+- doubler
+- easygo
+- eatherley
+- eventual cycle hunter
+- evolvedann
+- evolvedlookerup
+- feld
+- firm but fair
+- fool me forever
+- fool me once
+- forgetful fool me once
+- forgetful grudger
+- forgiver
+- forgiving tit for tat
+- fortress3
+- fortress4
+- pso gambler
+- gtft
+- go by marjority
+- go by majority 10
+- go by majority 20
+- go by majority 40
+- go by majority 5
+- phi
+- gradual
+- gradual killer
+- grofman
+- grudger
+- grudgeralternator
+- grumpy
+- handshake
+- hard go by majority
+- hard go by majority 10
+- hard go by majority 20
+- hard go by majority 40
+- hard go by majority 5
+- hard prober
+- hard tit for 2 tats
+- hard tit for tat
+- hesitant qlearner
+- hopeless
+- inverse
+- inverse punisher
+- joss
+- knowledgeable worse and worse
+- limited retaliate
+- limited retaliate 2
+- limited retaliate 3
+- math constant hunter
+- naive prober
+- negation
+- nice average copier
+- nydegger
+- omega tft
+- once bitten
+- opposite grudger
+- pi
+- predator
+- prober
+- prober 2
+- prober 3
+- prober 4
+- punisher
+- raider
+- random
+- random hunter
+- remorseful prober
+- retaliate
+- retaliate 2
+- retaliate 3
+- ripoff
+- risky qlearner
+- shubik
+- slow tit for two tats
+- sneaky tit for tat
+- soft grudger
+- soft joss
+- solutionb1
+- solutionb5
+- spiteful tit for tat
+- stochastic cooperator
+- stochastic wsls
+- suspicious tit for tat
+- tester
+- thuemorse
+- thuemorseinverse
+- thumper
+- tit for tat
+- tit for 2 tats
+- tricky cooperator
+- tricky defector
+- tullock
+- two tits for tat
+- willing
+- win-shift lose-stay
+- win-stay lose-shift
+- worse and worse
+- worse and worse 2
+- worse and worse 3
+- zd-extort-2
+- zd-extort-2 v2
+- zd-extort-4
+- zd-gtft-2
+- zd-gen-2
+- zd-set-2
+- e
+- meta hunter
+- meta hunter aggressive
+- meta majority
+- meta majority memory one
+- meta majority finite memory
+- meta majority long memory
+- meta minority
+- meta mixer
+- meta winner
+- meta winner deterministic
+- meta winner ensemble
+- meta winner memory one
+- meta winner finite memory
+- meta winner long memory
+- meta winner stochastic
+- mwe deterministic
+- mwe finite memory
+- mwe long memory
+- mwe memory one
+- mwe stochastic
+- dbs
+- alexei
+- steinandrapoport
+- dynamictwotitsfortat
+- euginenier
+- tf1
+- tf2
+- tf3
+
+Choice:
+- cooperate
+- defect

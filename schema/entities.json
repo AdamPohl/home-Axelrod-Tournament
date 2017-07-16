@@ -1,0 +1,1036 @@
+[
+    {
+        "name": "Strategy",
+        "entries": [
+            {
+                "value": "adaptive",
+                "synonyms": [
+                    "adaptive"
+                ]
+            },
+            {
+                "value": "adaptive tit for tat",
+                "synonyms": [
+                    "adaptive tit for tat"
+                ]
+            },
+            {
+                "value": "aggravater",
+                "synonyms": [
+                    "aggravater"
+                ]
+            },
+            {
+                "value": "allcoralld",
+                "synonyms": [
+                    "allcoralld"
+                ]
+            },
+            {
+                "value": "alternator",
+                "synonyms": [
+                    "alternator"
+                ]
+            },
+            {
+                "value": "alternator hunter",
+                "synonyms": [
+                    "alternator hunter"
+                ]
+            },
+            {
+                "value": "anticycler",
+                "synonyms": [
+                    "anticycler"
+                ]
+            },
+            {
+                "value": "anti tit for tat",
+                "synonyms": [
+                    "anti tit for tat"
+                ]
+            },
+            {
+                "value": "adapative pavlov 2006",
+                "synonyms": [
+                    "adapative pavlov 2006"
+                ]
+            },
+            {
+                "value": "adapative pavlov 2011",
+                "synonyms": [
+                    "adapative pavlov 2011"
+                ]
+            },
+            {
+                "value": "appeaser",
+                "synonyms": [
+                    "appeaser"
+                ]
+            },
+            {
+                "value": "arrogant qlearner",
+                "synonyms": [
+                    "arrogant qlearner"
+                ]
+            },
+            {
+                "value": "average copier",
+                "synonyms": [
+                    "average copier"
+                ]
+            },
+            {
+                "value": "better and better",
+                "synonyms": [
+                    "better and better"
+                ]
+            },
+            {
+                "value": "backstabber",
+                "synonyms": [
+                    "backstabber"
+                ]
+            },
+            {
+                "value": "bully",
+                "synonyms": [
+                    "bully"
+                ]
+            },
+            {
+                "value": "calculator",
+                "synonyms": [
+                    "calculator"
+                ]
+            },
+            {
+                "value": "cautious qlearner",
+                "synonyms": [
+                    "cautious qlearner"
+                ]
+            },
+            {
+                "value": "champion",
+                "synonyms": [
+                    "champion"
+                ]
+            },
+            {
+                "value": "contrite tit for tat",
+                "synonyms": [
+                    "contrite tit for tat"
+                ]
+            },
+            {
+                "value": "cooperator",
+                "synonyms": [
+                    "cooperator"
+                ]
+            },
+            {
+                "value": "cooperator hunter",
+                "synonyms": [
+                    "cooperator hunter"
+                ]
+            },
+            {
+                "value": "cycle hunter",
+                "synonyms": [
+                    "cycle hunter"
+                ]
+            },
+            {
+                "value": "cycler cccccd",
+                "synonyms": [
+                    "cycler cccccd"
+                ]
+            },
+            {
+                "value": "cycler cccd",
+                "synonyms": [
+                    "cycler cccd"
+                ]
+            },
+            {
+                "value": "cycler ccd",
+                "synonyms": [
+                    "cycler ccd"
+                ]
+            },
+            {
+                "value": "cycler dc",
+                "synonyms": [
+                    "cycler dc"
+                ]
+            },
+            {
+                "value": "cycler ddc",
+                "synonyms": [
+                    "cycler ddc"
+                ]
+            },
+            {
+                "value": "cycler cccdcd",
+                "synonyms": [
+                    "cycler cccdcd"
+                ]
+            },
+            {
+                "value": "davis",
+                "synonyms": [
+                    "davis"
+                ]
+            },
+            {
+                "value": "defector",
+                "synonyms": [
+                    "defector"
+                ]
+            },
+            {
+                "value": "defector hunter",
+                "synonyms": [
+                    "defector hunter"
+                ]
+            },
+            {
+                "value": "desperate",
+                "synonyms": [
+                    "desperate"
+                ]
+            },
+            {
+                "value": "doublecrosser",
+                "synonyms": [
+                    "doublecrosser"
+                ]
+            },
+            {
+                "value": "doubler",
+                "synonyms": [
+                    "doubler"
+                ]
+            },
+            {
+                "value": "easygo",
+                "synonyms": [
+                    "easygo"
+                ]
+            },
+            {
+                "value": "eatherley",
+                "synonyms": [
+                    "eatherley"
+                ]
+            },
+            {
+                "value": "eventual cycle hunter",
+                "synonyms": [
+                    "eventual cycle hunter"
+                ]
+            },
+            {
+                "value": "evolvedann",
+                "synonyms": [
+                    "evolvedann"
+                ]
+            },
+            {
+                "value": "evolvedlookerup",
+                "synonyms": [
+                    "evolvedlookerup"
+                ]
+            },
+            {
+                "value": "feld",
+                "synonyms": [
+                    "feld"
+                ]
+            },
+            {
+                "value": "firm but fair",
+                "synonyms": [
+                    "firm but fair"
+                ]
+            },
+            {
+                "value": "fool me forever",
+                "synonyms": [
+                    "fool me forever"
+                ]
+            },
+            {
+                "value": "fool me once",
+                "synonyms": [
+                    "fool me once"
+                ]
+            },
+            {
+                "value": "forgetful fool me once",
+                "synonyms": [
+                    "forgetful fool me once"
+                ]
+            },
+            {
+                "value": "forgetful grudger",
+                "synonyms": [
+                    "forgetful grudger"
+                ]
+            },
+            {
+                "value": "forgiver",
+                "synonyms": [
+                    "forgiver"
+                ]
+            },
+            {
+                "value": "forgiving tit for tat",
+                "synonyms": [
+                    "forgiving tit for tat"
+                ]
+            },
+            {
+                "value": "fortress3",
+                "synonyms": [
+                    "fortress3"
+                ]
+            },
+            {
+                "value": "fortress4",
+                "synonyms": [
+                    "fortress4"
+                ]
+            },
+            {
+                "value": "pso gambler",
+                "synonyms": [
+                    "pso gambler"
+                ]
+            },
+            {
+                "value": "gtft",
+                "synonyms": [
+                    "gtft"
+                ]
+            },
+            {
+                "value": "go by marjority",
+                "synonyms": [
+                    "go by marjority"
+                ]
+            },
+            {
+                "value": "go by majority 10",
+                "synonyms": [
+                    "go by majority 10"
+                ]
+            },
+            {
+                "value": "go by majority 20",
+                "synonyms": [
+                    "go by majority 20"
+                ]
+            },
+            {
+                "value": "go by majority 40",
+                "synonyms": [
+                    "go by majority 40"
+                ]
+            },
+            {
+                "value": "go by majority 5",
+                "synonyms": [
+                    "go by majority 5"
+                ]
+            },
+            {
+                "value": "phi",
+                "synonyms": [
+                    "phi"
+                ]
+            },
+            {
+                "value": "gradual",
+                "synonyms": [
+                    "gradual"
+                ]
+            },
+            {
+                "value": "gradual killer",
+                "synonyms": [
+                    "gradual killer"
+                ]
+            },
+            {
+                "value": "grofman",
+                "synonyms": [
+                    "grofman"
+                ]
+            },
+            {
+                "value": "grudger",
+                "synonyms": [
+                    "grudger"
+                ]
+            },
+            {
+                "value": "grudgeralternator",
+                "synonyms": [
+                    "grudgeralternator"
+                ]
+            },
+            {
+                "value": "grumpy",
+                "synonyms": [
+                    "grumpy"
+                ]
+            },
+            {
+                "value": "handshake",
+                "synonyms": [
+                    "handshake"
+                ]
+            },
+            {
+                "value": "hard go by majority",
+                "synonyms": [
+                    "hard go by majority"
+                ]
+            },
+            {
+                "value": "hard go by majority 10",
+                "synonyms": [
+                    "hard go by majority 10"
+                ]
+            },
+            {
+                "value": "hard go by majority 20",
+                "synonyms": [
+                    "hard go by majority 20"
+                ]
+            },
+            {
+                "value": "hard go by majority 40",
+                "synonyms": [
+                    "hard go by majority 40"
+                ]
+            },
+            {
+                "value": "hard go by majority 5",
+                "synonyms": [
+                    "hard go by majority 5"
+                ]
+            },
+            {
+                "value": "hard prober",
+                "synonyms": [
+                    "hard prober"
+                ]
+            },
+            {
+                "value": "hard tit for 2 tats",
+                "synonyms": [
+                    "hard tit for 2 tats"
+                ]
+            },
+            {
+                "value": "hard tit for tat",
+                "synonyms": [
+                    "hard tit for tat"
+                ]
+            },
+            {
+                "value": "hesitant qlearner",
+                "synonyms": [
+                    "hesitant qlearner"
+                ]
+            },
+            {
+                "value": "hopeless",
+                "synonyms": [
+                    "hopeless"
+                ]
+            },
+            {
+                "value": "inverse",
+                "synonyms": [
+                    "inverse"
+                ]
+            },
+            {
+                "value": "inverse punisher",
+                "synonyms": [
+                    "inverse punisher"
+                ]
+            },
+            {
+                "value": "joss",
+                "synonyms": [
+                    "joss"
+                ]
+            },
+            {
+                "value": "knowledgeable worse and worse",
+                "synonyms": [
+                    "knowledgeable worse and worse"
+                ]
+            },
+            {
+                "value": "limited retaliate",
+                "synonyms": [
+                    "limited retaliate"
+                ]
+            },
+            {
+                "value": "limited retaliate 2",
+                "synonyms": [
+                    "limited retaliate 2"
+                ]
+            },
+            {
+                "value": "limited retaliate 3",
+                "synonyms": [
+                    "limited retaliate 3"
+                ]
+            },
+            {
+                "value": "math constant hunter",
+                "synonyms": [
+                    "math constant hunter"
+                ]
+            },
+            {
+                "value": "naive prober",
+                "synonyms": [
+                    "naive prober"
+                ]
+            },
+            {
+                "value": "negation",
+                "synonyms": [
+                    "negation"
+                ]
+            },
+            {
+                "value": "nice average copier",
+                "synonyms": [
+                    "nice average copier"
+                ]
+            },
+            {
+                "value": "nydegger",
+                "synonyms": [
+                    "nydegger"
+                ]
+            },
+            {
+                "value": "omega tft",
+                "synonyms": [
+                    "omega tft"
+                ]
+            },
+            {
+                "value": "once bitten",
+                "synonyms": [
+                    "once bitten"
+                ]
+            },
+            {
+                "value": "opposite grudger",
+                "synonyms": [
+                    "opposite grudger"
+                ]
+            },
+            {
+                "value": "pi",
+                "synonyms": [
+                    "pi"
+                ]
+            },
+            {
+                "value": "predator",
+                "synonyms": [
+                    "predator"
+                ]
+            },
+            {
+                "value": "prober",
+                "synonyms": [
+                    "prober"
+                ]
+            },
+            {
+                "value": "prober 2",
+                "synonyms": [
+                    "prober 2"
+                ]
+            },
+            {
+                "value": "prober 3",
+                "synonyms": [
+                    "prober 3"
+                ]
+            },
+            {
+                "value": "prober 4",
+                "synonyms": [
+                    "prober 4"
+                ]
+            },
+            {
+                "value": "punisher",
+                "synonyms": [
+                    "punisher"
+                ]
+            },
+            {
+                "value": "raider",
+                "synonyms": [
+                    "raider"
+                ]
+            },
+            {
+                "value": "random",
+                "synonyms": [
+                    "random"
+                ]
+            },
+            {
+                "value": "random hunter",
+                "synonyms": [
+                    "random hunter"
+                ]
+            },
+            {
+                "value": "remorseful prober",
+                "synonyms": [
+                    "remorseful prober"
+                ]
+            },
+            {
+                "value": "retaliate",
+                "synonyms": [
+                    "retaliate"
+                ]
+            },
+            {
+                "value": "retaliate 2",
+                "synonyms": [
+                    "retaliate 2"
+                ]
+            },
+            {
+                "value": "retaliate 3",
+                "synonyms": [
+                    "retaliate 3"
+                ]
+            },
+            {
+                "value": "ripoff",
+                "synonyms": [
+                    "ripoff"
+                ]
+            },
+            {
+                "value": "risky qlearner",
+                "synonyms": [
+                    "risky qlearner"
+                ]
+            },
+            {
+                "value": "shubik",
+                "synonyms": [
+                    "shubik"
+                ]
+            },
+            {
+                "value": "slow tit for two tats",
+                "synonyms": [
+                    "slow tit for two tats"
+                ]
+            },
+            {
+                "value": "sneaky tit for tat",
+                "synonyms": [
+                    "sneaky tit for tat"
+                ]
+            },
+            {
+                "value": "soft grudger",
+                "synonyms": [
+                    "soft grudger"
+                ]
+            },
+            {
+                "value": "soft joss",
+                "synonyms": [
+                    "soft joss"
+                ]
+            },
+            {
+                "value": "solutionb1",
+                "synonyms": [
+                    "solutionb1"
+                ]
+            },
+            {
+                "value": "solutionb5",
+                "synonyms": [
+                    "solutionb5"
+                ]
+            },
+            {
+                "value": "spiteful tit for tat",
+                "synonyms": [
+                    "spiteful tit for tat"
+                ]
+            },
+            {
+                "value": "stochastic cooperator",
+                "synonyms": [
+                    "stochastic cooperator"
+                ]
+            },
+            {
+                "value": "stochastic wsls",
+                "synonyms": [
+                    "stochastic wsls"
+                ]
+            },
+            {
+                "value": "suspicious tit for tat",
+                "synonyms": [
+                    "suspicious tit for tat"
+                ]
+            },
+            {
+                "value": "tester",
+                "synonyms": [
+                    "tester"
+                ]
+            },
+            {
+                "value": "thuemorse",
+                "synonyms": [
+                    "thuemorse"
+                ]
+            },
+            {
+                "value": "thuemorseinverse",
+                "synonyms": [
+                    "thuemorseinverse"
+                ]
+            },
+            {
+                "value": "thumper",
+                "synonyms": [
+                    "thumper"
+                ]
+            },
+            {
+                "value": "tit for tat",
+                "synonyms": [
+                    "tit for tat"
+                ]
+            },
+            {
+                "value": "tit for 2 tats",
+                "synonyms": [
+                    "tit for 2 tats"
+                ]
+            },
+            {
+                "value": "tricky cooperator",
+                "synonyms": [
+                    "tricky cooperator"
+                ]
+            },
+            {
+                "value": "tricky defector",
+                "synonyms": [
+                    "tricky defector"
+                ]
+            },
+            {
+                "value": "tullock",
+                "synonyms": [
+                    "tullock"
+                ]
+            },
+            {
+                "value": "two tits for tat",
+                "synonyms": [
+                    "two tits for tat"
+                ]
+            },
+            {
+                "value": "willing",
+                "synonyms": [
+                    "willing"
+                ]
+            },
+            {
+                "value": "win-shift lose-stay",
+                "synonyms": [
+                    "win-shift lose-stay"
+                ]
+            },
+            {
+                "value": "win-stay lose-shift",
+                "synonyms": [
+                    "win-stay lose-shift"
+                ]
+            },
+            {
+                "value": "worse and worse",
+                "synonyms": [
+                    "worse and worse"
+                ]
+            },
+            {
+                "value": "worse and worse 2",
+                "synonyms": [
+                    "worse and worse 2"
+                ]
+            },
+            {
+                "value": "worse and worse 3",
+                "synonyms": [
+                    "worse and worse 3"
+                ]
+            },
+            {
+                "value": "zd-extort-2",
+                "synonyms": [
+                    "zd-extort-2"
+                ]
+            },
+            {
+                "value": "zd-extort-2 v2",
+                "synonyms": [
+                    "zd-extort-2 v2"
+                ]
+            },
+            {
+                "value": "zd-extort-4",
+                "synonyms": [
+                    "zd-extort-4"
+                ]
+            },
+            {
+                "value": "zd-gtft-2",
+                "synonyms": [
+                    "zd-gtft-2"
+                ]
+            },
+            {
+                "value": "zd-gen-2",
+                "synonyms": [
+                    "zd-gen-2"
+                ]
+            },
+            {
+                "value": "zd-set-2",
+                "synonyms": [
+                    "zd-set-2"
+                ]
+            },
+            {
+                "value": "e",
+                "synonyms": [
+                    "e"
+                ]
+            },
+            {
+                "value": "meta hunter",
+                "synonyms": [
+                    "meta hunter"
+                ]
+            },
+            {
+                "value": "meta hunter aggressive",
+                "synonyms": [
+                    "meta hunter aggressive"
+                ]
+            },
+            {
+                "value": "meta majority",
+                "synonyms": [
+                    "meta majority"
+                ]
+            },
+            {
+                "value": "meta majority memory one",
+                "synonyms": [
+                    "meta majority memory one"
+                ]
+            },
+            {
+                "value": "meta majority finite memory",
+                "synonyms": [
+                    "meta majority finite memory"
+                ]
+            },
+            {
+                "value": "meta majority long memory",
+                "synonyms": [
+                    "meta majority long memory"
+                ]
+            },
+            {
+                "value": "meta minority",
+                "synonyms": [
+                    "meta minority"
+                ]
+            },
+            {
+                "value": "meta mixer",
+                "synonyms": [
+                    "meta mixer"
+                ]
+            },
+            {
+                "value": "meta winner",
+                "synonyms": [
+                    "meta winner"
+                ]
+            },
+            {
+                "value": "meta winner deterministic",
+                "synonyms": [
+                    "meta winner deterministic"
+                ]
+            },
+            {
+                "value": "meta winner ensemble",
+                "synonyms": [
+                    "meta winner ensemble"
+                ]
+            },
+            {
+                "value": "meta winner memory one",
+                "synonyms": [
+                    "meta winner memory one"
+                ]
+            },
+            {
+                "value": "meta winner finite memory",
+                "synonyms": [
+                    "meta winner finite memory"
+                ]
+            },
+            {
+                "value": "meta winner long memory",
+                "synonyms": [
+                    "meta winner long memory"
+                ]
+            },
+            {
+                "value": "meta winner stochastic",
+                "synonyms": [
+                    "meta winner stochastic"
+                ]
+            },
+            {
+                "value": "mwe deterministic",
+                "synonyms": [
+                    "mwe deterministic"
+                ]
+            },
+            {
+                "value": "mwe finite memory",
+                "synonyms": [
+                    "mwe finite memory"
+                ]
+            },
+            {
+                "value": "mwe long memory",
+                "synonyms": [
+                    "mwe long memory"
+                ]
+            },
+            {
+                "value": "mwe memory one",
+                "synonyms": [
+                    "mwe memory one"
+                ]
+            },
+            {
+                "value": "mwe stochastic",
+                "synonyms": [
+                    "mwe stochastic"
+                ]
+            },
+            {
+                "value": "dbs",
+                "synonyms": [
+                    "dbs"
+                ]
+            },
+            {
+                "value": "alexei",
+                "synonyms": [
+                    "alexei"
+                ]
+            },
+            {
+                "value": "steinandrapoport",
+                "synonyms": [
+                    "steinandrapoport"
+                ]
+            },
+            {
+                "value": "dynamictwotitsfortat",
+                "synonyms": [
+                    "dynamictwotitsfortat"
+                ]
+            },
+            {
+                "value": "euginenier",
+                "synonyms": [
+                    "euginenier"
+                ]
+            },
+            {
+                "value": "tf1",
+                "synonyms": [
+                    "tf1"
+                ]
+            },
+            {
+                "value": "tf2",
+                "synonyms": [
+                    "tf2"
+                ]
+            },
+            {
+                "value": "tf3",
+                "synonyms": [
+                    "tf3"
+                ]
+            }
+        ],
+        "isEnum": true,
+        "id": "3f653263-86d3-4c0a-865d-cde4059f8523"
+    },
+    {
+        "name": "Choice",
+        "entries": [
+            {
+                "value": "cooperate",
+                "synonyms": [
+                    "cooperate"
+                ]
+            },
+            {
+                "value": "defect",
+                "synonyms": [
+                    "defect"
+                ]
+            }
+        ],
+        "isEnum": true,
+        "id": "3dcf428f-1eac-4743-a918-b5267b702484"
+    }
+]

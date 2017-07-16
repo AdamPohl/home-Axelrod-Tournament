@@ -1,0 +1,503 @@
+[
+    {
+        "webhookForSlotFilling": true,
+        "name": "ChoiceAction",
+        "fallbackIntent": false,
+        "webhookUsed": true,
+        "userSays": [
+            {
+                "data": [
+                    {
+                        "text": "I would like to "
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "Choice",
+                        "text": "defect",
+                        "meta": "@Choice"
+                    },
+                    {
+                        "text": "please "
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "text": "I would like to "
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "Choice",
+                        "text": "defect",
+                        "meta": "@Choice"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "text": "I am going to "
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "Choice",
+                        "text": "defect",
+                        "meta": "@Choice"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "text": "I will "
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "Choice",
+                        "text": "defect",
+                        "meta": "@Choice"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "Choice",
+                        "text": "defect",
+                        "meta": "@Choice"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            }
+        ],
+        "auto": true,
+        "events": [],
+        "responses": [
+            {
+                "messages": [],
+                "parameters": [
+                    {
+                        "value": "$Choice",
+                        "required": true,
+                        "defaultValue": "",
+                        "dataType": "@Choice",
+                        "name": "Choice",
+                        "prompts": [],
+                        "isList": false
+                    }
+                ],
+                "affectedContexts": [],
+                "resetContexts": false,
+                "action": "choice_intent"
+            }
+        ],
+        "contexts": [],
+        "templates": [],
+        "priority": 500000,
+        "id": "1a8c614f-960e-49cb-bf2a-83e11b9f1402"
+    },
+    {
+        "webhookForSlotFilling": true,
+        "name": "HelpAction",
+        "fallbackIntent": false,
+        "webhookUsed": true,
+        "userSays": [
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "Help"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "What can you do?"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "Please provide the help guide"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            }
+        ],
+        "auto": true,
+        "events": [],
+        "responses": [
+            {
+                "messages": [],
+                "parameters": [],
+                "affectedContexts": [],
+                "resetContexts": false,
+                "action": "help_intent"
+            }
+        ],
+        "contexts": [],
+        "templates": [],
+        "priority": 500000,
+        "id": "9691fd58-39b7-47a6-815d-59c6e76a0763"
+    },
+    {
+        "webhookForSlotFilling": true,
+        "name": "CancelAction",
+        "fallbackIntent": false,
+        "webhookUsed": true,
+        "userSays": [
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "Cancel the match"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "Cancel the game"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "Cancel"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            }
+        ],
+        "auto": true,
+        "events": [],
+        "responses": [
+            {
+                "messages": [],
+                "parameters": [],
+                "affectedContexts": [],
+                "resetContexts": false,
+                "action": "cancel_intent"
+            }
+        ],
+        "contexts": [],
+        "templates": [],
+        "priority": 500000,
+        "id": "d9bcb713-2121-4a92-b018-371ad1fb7ae5"
+    },
+    {
+        "webhookForSlotFilling": true,
+        "name": "PlayAction",
+        "fallbackIntent": false,
+        "webhookUsed": true,
+        "userSays": [
+            {
+                "data": [
+                    {
+                        "text": "initiate a "
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "number",
+                        "text": "ten",
+                        "meta": "@sys.number"
+                    },
+                    {
+                        "text": "round match against "
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "Strategy",
+                        "text": "adaptive",
+                        "meta": "@Strategy"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "text": "please start a "
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "number",
+                        "text": "ten",
+                        "meta": "@sys.number"
+                    },
+                    {
+                        "text": "round match against "
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "Strategy",
+                        "text": "adaptive",
+                        "meta": "@Strategy"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "text": "start a "
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "number",
+                        "text": "ten",
+                        "meta": "@sys.number"
+                    },
+                    {
+                        "text": "round match against "
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "Strategy",
+                        "text": "adaptive",
+                        "meta": "@Strategy"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "text": "can I have a "
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "number",
+                        "text": "ten",
+                        "meta": "@sys.number"
+                    },
+                    {
+                        "text": "match against "
+                    },
+                    {
+                        "userDefined": true,
+                        "alias": "Strategy",
+                        "text": "adaptive",
+                        "meta": "@Strategy"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            }
+        ],
+        "auto": true,
+        "events": [],
+        "responses": [
+            {
+                "messages": [],
+                "parameters": [
+                    {
+                        "value": "$@number",
+                        "required": true,
+                        "defaultValue": "",
+                        "dataType": "@@sys.number",
+                        "name": "@number",
+                        "prompts": [],
+                        "isList": false
+                    },
+                    {
+                        "value": "$Strategy",
+                        "required": true,
+                        "defaultValue": "",
+                        "dataType": "@Strategy",
+                        "name": "Strategy",
+                        "prompts": [],
+                        "isList": false
+                    }
+                ],
+                "affectedContexts": [],
+                "resetContexts": false,
+                "action": "play_intent"
+            }
+        ],
+        "contexts": [],
+        "templates": [],
+        "priority": 500000,
+        "id": "9e9f4815-c481-4461-a27c-90f9936e0075"
+    },
+    {
+        "webhookForSlotFilling": true,
+        "name": "LaunchAction",
+        "fallbackIntent": false,
+        "webhookUsed": true,
+        "userSays": [
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "Open the axelrod tournament"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "Launch the axelrod tournament"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "initiate the axelrod tournament"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            }
+        ],
+        "auto": true,
+        "events": [],
+        "responses": [
+            {
+                "messages": [],
+                "parameters": [],
+                "affectedContexts": [],
+                "resetContexts": false,
+                "action": "welcome"
+            }
+        ],
+        "contexts": [],
+        "templates": [],
+        "priority": 500000,
+        "id": "bf68831e-ff13-4561-9c21-1695c4d91dc2"
+    },
+    {
+        "webhookForSlotFilling": true,
+        "name": "StopAction",
+        "fallbackIntent": false,
+        "webhookUsed": true,
+        "userSays": [
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "That's enough for today"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "Stop"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "Stop the match"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "Stop the game"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "End the match"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "End the game"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            },
+            {
+                "data": [
+                    {
+                        "userDefined": false,
+                        "text": "I am done"
+                    }
+                ],
+                "count": 0,
+                "isTemplate": false
+            }
+        ],
+        "auto": true,
+        "events": [],
+        "responses": [
+            {
+                "messages": [],
+                "parameters": [],
+                "affectedContexts": [],
+                "resetContexts": false,
+                "action": "stop_intent"
+            }
+        ],
+        "contexts": [],
+        "templates": [],
+        "priority": 500000,
+        "id": "9e472f9f-8e96-4c09-94e6-362987ba6946"
+    }
+]
